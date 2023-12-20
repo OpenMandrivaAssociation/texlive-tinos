@@ -1,6 +1,6 @@
 Name:		texlive-tinos
-Version:	64504
-Release:	2
+Version:	68950
+Release:	1
 Summary:	Tinos fonts with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tinos
