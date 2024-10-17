@@ -3,7 +3,7 @@ Version:	68950
 Release:	1
 Summary:	Tinos fonts with LaTeX support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tinos
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tinos
 License:	apache2 lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tinos.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tinos.doc.r%{version}.tar.xz
